@@ -7,3 +7,8 @@
 ## Training set--
 
 ![naivebayes-training](https://user-images.githubusercontent.com/40026126/44227148-8a832780-a1af-11e8-8ef5-b1e3858587db.PNG)
+
+
+## Testing set--
+
+![naivebayes-testing](https://user-images.githubusercontent.com/40026126/44227229-ba322f80-a1af-11e8-9aaf-888c5bcc42cb.PNG)
